@@ -1,0 +1,158 @@
+@import '../node_modules/react-responsive-carousel/lib/styles/carousel.min.css';
+body {
+  margin: 0;
+  font-family: 'Roboto', 'sans-serif';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.carousel .carousel-status{
+  text-shadow: 1px 1px 1px rgba(232, 227, 227, 0.9);
+}
+
+.carousel .slide{
+  background: #fff;
+}
+
+.carousel .control-dots{
+  margin: 0px 0px;
+}
+
+.carousel .control-dots .dot{
+  width: 16px;
+  height: 16px;
+  background: #EAECF1;
+}
+
+.carousel .control-dots .dot:focus{
+  outline: none;
+}
+
+.carousel .control-dots .dot.selected{
+  background: #31275F;
+}
+
+@font-face {
+  font-family: "AmazonEmber-ThinItalic";
+  src: url("./assets/styles/AmazonEmberThIt.woff") format("woff"),
+    /* ThinItalic */
+    url("./assets/styles/AmazonEmberThIt.woff2") format("woff2");
+  /* ThinItalic */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmazonEmber-Thin";
+  src: url("./assets/styles/AmazonEmberTh.woff") format("woff"),
+    /* Thin */
+    url("./assets/styles/AmazonEmberTh.woff2") format("woff2");
+  /* Thin */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmazonEmber-BoldItalic";
+  src: url("./assets/styles/AmazonEmberBdIt.woff") format("woff"),
+    /* BoldItalic */
+    url("./assets/styles/AmazonEmberBdIt.woff2") format("woff2");
+  /* BoldItalic */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmazonEmber-Bold";
+  src: url("./assets/styles/AmazonEmberBd.woff") format("woff"),
+    /* Bold */
+    url("./assets/styles/AmazonEmberBd.woff2") format("woff2");
+  /* Bold */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmazonEmber-Semi-BoldItalic";
+  src: url("./assets/styles/AmazonEmberSBdIt.woff") format("woff"),
+    /* Semi-BoldItalic */
+    url("./assets/styles/AmazonEmberSBdIt.woff2") format("woff2");
+  /* Semi-BoldItalic */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmazonEmber-Semi-Bold";
+  src: url("./assets/styles/AmazonEmberSBd.woff") format("woff"),
+    /* Semi-Bold */
+    url("./assets/styles/AmazonEmberSBd.woff2") format("woff2");
+  /* Semi-Bold */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmazonEmber-RegularItalic";
+  src: url("./assets/styles/AmazonEmberRgIt.woff") format("woff"),
+    /* RegularItalic */
+    url("./assets/styles/AmazonEmberRgIt.woff2") format("woff2");
+  /* RegularItalic */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmazonEmber-Regular";
+  src: url("./assets/styles/AmazonEmberRg.woff") format("woff"),
+    /* Regular */
+    url("./assets/styles/AmazonEmberRg.woff2") format("woff2");
+  /* Regular */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmazonEmber-LightItalic";
+  src: url("./assets/styles/AmazonEmberLtIt.woff") format("woff"),
+    /* LightItalic */
+    url("./assets/styles/AmazonEmberLtIt.woff2") format("woff2");
+  /* LightItalic */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmazonEmber-Light";
+  src: url("./assets/styles/AmazonEmberLt.woff") format("woff"),
+    /* Light */
+    url("./assets/styles/AmazonEmberLt.woff2") format("woff2");
+  /* Light */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmazonEmber-HeavyItalic";
+  src: url("./assets/styles/AmazonEmberHeIt.woff") format("woff"),
+    /* HeavyItalic */
+    url("./assets/styles/AmazonEmberHeIt.woff2") format("woff2");
+  /* HeavyItalic */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AmazonEmber-Heavy";
+  src: url("./assets/styles/AmazonEmberHe.woff") format("woff"),
+    /* Heavy */
+    url("./assets/styles/AmazonEmberHe.woff2") format("woff2");
+  /* Heavy */
+  font-weight: normal;
+  font-style: normal;
+}

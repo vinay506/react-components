@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Custom Theader Tag > should render 1`] = `
+<thead
+  className="rmwc-data-table__head"
+>
+   
+  <tr
+    className="rmwc-data-table__row mdc-data-table__header-row"
+  >
+    <th
+      className="rmwc-data-table__cell mdc-data-table__header-cell"
+      style={
+        Object {
+          "fontWeight": "bold",
+          "height": "45px",
+        }
+      }
+    >
+      Tests
+    </th>
+  </tr>
+</thead>
+`;

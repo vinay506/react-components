@@ -1,0 +1,459 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Horizontal scroll for comments container> comments card snapshot 1`] = `
+.c3 {
+  font-size: 18px;
+  color: black;
+  font-family: 'AmazonEmber-bold';
+}
+
+.c2 {
+  color: black;
+  font-size: 21px;
+  font-family: 'AmazonEmber-Bold';
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.c5 {
+  padding: 15px 20px 0px 20px;
+  margin: 2%;
+  box-shadow: 0px 0px 3px;
+  width: 350px;
+  text-align: left;
+  background: #fff;
+}
+
+.c7 {
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.c8 {
+  color: #aecbfa;
+  font-size: 12px;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 {
+  background: #e8f0fe;
+  padding-left: 100px;
+  padding-top: 30px;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow-x: auto;
+}
+
+.c1 {
+  margin-bottom: 20px;
+  margin-left: 2%;
+}
+
+<div
+  className="c0 commentsOuterPart"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      id="textPrimary"
+      style={
+        Object {
+          "fontSize": "16px",
+          "marginBottom": "20px",
+        }
+      }
+    >
+      Trusted by 100,000 students in India
+    </div>
+    <div
+      className="c3"
+      id="textSecondary"
+      style={
+        Object {
+          "fontSize": "12px",
+          "fontWeight": "500",
+        }
+      }
+    >
+      Here from our happy customers
+    </div>
+  </div>
+  <div
+    className="c4"
+  >
+    <div
+      className="c5"
+    >
+      <svg
+        className="rmwc-icon rmwc-icon--component material-icons"
+        height="30px"
+        id="Capa_1"
+        version="1.1"
+        viewBox="0 0 508.044 508.044"
+        width="30px"
+        x="0px"
+        y="0px"
+      >
+        <g>
+          <g>
+            <path
+              d="M0.108,352.536c0,66.794,54.144,120.938,120.937,120.938c66.794,0,120.938-54.144,120.938-120.938
+ s-54.144-120.937-120.938-120.937c-13.727,0-26.867,2.393-39.168,6.61C109.093,82.118,230.814-18.543,117.979,64.303
+ C-7.138,156.17-0.026,348.84,0.114,352.371C0.114,352.426,0.108,352.475,0.108,352.536z"
+            />
+            <path
+              d="M266.169,352.536c0,66.794,54.144,120.938,120.938,120.938s120.938-54.144,120.938-120.938S453.9,231.599,387.106,231.599
+ c-13.728,0-26.867,2.393-39.168,6.61C375.154,82.118,496.875-18.543,384.04,64.303C258.923,156.17,266.034,348.84,266.175,352.371
+ C266.175,352.426,266.169,352.475,266.169,352.536z"
+            />
+          </g>
+        </g>
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+      </svg>
+      <div
+        className="c3"
+        id="textSecondary"
+        style={
+          Object {
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "marginBottom": "20px",
+            "marginTop": "15px",
+            "whiteSpace": "break-spaces",
+            "width": "300px",
+          }
+        }
+      >
+        JEE Ready has been helped me so much in my preparation. I practiced all the questions, which were also good and in the right difficulty! I was able to do massively well in JEE
+      </div>
+      <div
+        className="c6"
+      >
+        <div
+          className="c7"
+          style={
+            Object {
+              "height": "30px",
+              "marginBottom": "20px",
+              "marginRight": "10px",
+              "width": "30px",
+            }
+          }
+        />
+        <div
+          className="c8"
+        >
+          <div
+            className="nameText"
+          >
+            Asha Sharma
+          </div>
+          <div
+            className="subText"
+          >
+            60 AIR
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="c5"
+    >
+      <svg
+        className="rmwc-icon rmwc-icon--component material-icons"
+        height="30px"
+        id="Capa_1"
+        version="1.1"
+        viewBox="0 0 508.044 508.044"
+        width="30px"
+        x="0px"
+        y="0px"
+      >
+        <g>
+          <g>
+            <path
+              d="M0.108,352.536c0,66.794,54.144,120.938,120.937,120.938c66.794,0,120.938-54.144,120.938-120.938
+ s-54.144-120.937-120.938-120.937c-13.727,0-26.867,2.393-39.168,6.61C109.093,82.118,230.814-18.543,117.979,64.303
+ C-7.138,156.17-0.026,348.84,0.114,352.371C0.114,352.426,0.108,352.475,0.108,352.536z"
+            />
+            <path
+              d="M266.169,352.536c0,66.794,54.144,120.938,120.938,120.938s120.938-54.144,120.938-120.938S453.9,231.599,387.106,231.599
+ c-13.728,0-26.867,2.393-39.168,6.61C375.154,82.118,496.875-18.543,384.04,64.303C258.923,156.17,266.034,348.84,266.175,352.371
+ C266.175,352.426,266.169,352.475,266.169,352.536z"
+            />
+          </g>
+        </g>
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+      </svg>
+      <div
+        className="c3"
+        id="textSecondary"
+        style={
+          Object {
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "marginBottom": "20px",
+            "marginTop": "15px",
+            "whiteSpace": "break-spaces",
+            "width": "300px",
+          }
+        }
+      >
+        JEE Ready has been helped me so much in my preparation. I practiced all the questions, which were also good and in the right difficulty! I was able to do massively well in JEE
+      </div>
+      <div
+        className="c6"
+      >
+        <div
+          className="c7"
+          style={
+            Object {
+              "height": "30px",
+              "marginBottom": "20px",
+              "marginRight": "10px",
+              "width": "30px",
+            }
+          }
+        />
+        <div
+          className="c8"
+        >
+          <div
+            className="nameText"
+          >
+            Asha Sharma
+          </div>
+          <div
+            className="subText"
+          >
+            60 AIR
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="c5"
+    >
+      <svg
+        className="rmwc-icon rmwc-icon--component material-icons"
+        height="30px"
+        id="Capa_1"
+        version="1.1"
+        viewBox="0 0 508.044 508.044"
+        width="30px"
+        x="0px"
+        y="0px"
+      >
+        <g>
+          <g>
+            <path
+              d="M0.108,352.536c0,66.794,54.144,120.938,120.937,120.938c66.794,0,120.938-54.144,120.938-120.938
+ s-54.144-120.937-120.938-120.937c-13.727,0-26.867,2.393-39.168,6.61C109.093,82.118,230.814-18.543,117.979,64.303
+ C-7.138,156.17-0.026,348.84,0.114,352.371C0.114,352.426,0.108,352.475,0.108,352.536z"
+            />
+            <path
+              d="M266.169,352.536c0,66.794,54.144,120.938,120.938,120.938s120.938-54.144,120.938-120.938S453.9,231.599,387.106,231.599
+ c-13.728,0-26.867,2.393-39.168,6.61C375.154,82.118,496.875-18.543,384.04,64.303C258.923,156.17,266.034,348.84,266.175,352.371
+ C266.175,352.426,266.169,352.475,266.169,352.536z"
+            />
+          </g>
+        </g>
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+      </svg>
+      <div
+        className="c3"
+        id="textSecondary"
+        style={
+          Object {
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "marginBottom": "20px",
+            "marginTop": "15px",
+            "whiteSpace": "break-spaces",
+            "width": "300px",
+          }
+        }
+      >
+        JEE Ready has been helped me so much in my preparation. I practiced all the questions, which were also good and in the right difficulty! I was able to do massively well in JEE
+      </div>
+      <div
+        className="c6"
+      >
+        <div
+          className="c7"
+          style={
+            Object {
+              "height": "30px",
+              "marginBottom": "20px",
+              "marginRight": "10px",
+              "width": "30px",
+            }
+          }
+        />
+        <div
+          className="c8"
+        >
+          <div
+            className="nameText"
+          >
+            Asha Sharma
+          </div>
+          <div
+            className="subText"
+          >
+            60 AIR
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="c5"
+    >
+      <svg
+        className="rmwc-icon rmwc-icon--component material-icons"
+        height="30px"
+        id="Capa_1"
+        version="1.1"
+        viewBox="0 0 508.044 508.044"
+        width="30px"
+        x="0px"
+        y="0px"
+      >
+        <g>
+          <g>
+            <path
+              d="M0.108,352.536c0,66.794,54.144,120.938,120.937,120.938c66.794,0,120.938-54.144,120.938-120.938
+ s-54.144-120.937-120.938-120.937c-13.727,0-26.867,2.393-39.168,6.61C109.093,82.118,230.814-18.543,117.979,64.303
+ C-7.138,156.17-0.026,348.84,0.114,352.371C0.114,352.426,0.108,352.475,0.108,352.536z"
+            />
+            <path
+              d="M266.169,352.536c0,66.794,54.144,120.938,120.938,120.938s120.938-54.144,120.938-120.938S453.9,231.599,387.106,231.599
+ c-13.728,0-26.867,2.393-39.168,6.61C375.154,82.118,496.875-18.543,384.04,64.303C258.923,156.17,266.034,348.84,266.175,352.371
+ C266.175,352.426,266.169,352.475,266.169,352.536z"
+            />
+          </g>
+        </g>
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+        <g />
+      </svg>
+      <div
+        className="c3"
+        id="textSecondary"
+        style={
+          Object {
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "marginBottom": "20px",
+            "marginTop": "15px",
+            "whiteSpace": "break-spaces",
+            "width": "300px",
+          }
+        }
+      >
+        JEE Ready has been helped me so much in my preparation. I practiced all the questions, which were also good and in the right difficulty! I was able to do massively well in JEE
+      </div>
+      <div
+        className="c6"
+      >
+        <div
+          className="c7"
+          style={
+            Object {
+              "height": "30px",
+              "marginBottom": "20px",
+              "marginRight": "10px",
+              "width": "30px",
+            }
+          }
+        />
+        <div
+          className="c8"
+        >
+          <div
+            className="nameText"
+          >
+            Asha Sharma
+          </div>
+          <div
+            className="subText"
+          >
+            60 AIR
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

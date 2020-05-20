@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Custom TD Cell > should render 1`] = `
+<td
+  className="mdc-data-table__cell rmwc-data-table__cell"
+  style={
+    Object {
+      "fontWeight": "bold",
+      "height": "45px",
+    }
+  }
+>
+  X
+</td>
+`;

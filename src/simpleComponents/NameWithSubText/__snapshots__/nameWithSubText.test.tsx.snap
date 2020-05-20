@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Name with subText> Name with subtext snapshot: 
+        .c0 {
+            color:#aecbfa;
+            font-size:12px;
+        }
+        <div className='sc-fzozJi ictDee'
+        >
+            <div className="nameText">Asha Sharma</div>
+            <div className="subText">60 AIR</div>
+        </div> 1`] = `
+.c0 {
+  color: #aecbfa;
+  font-size: 12px;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="nameText"
+  >
+    Asha Sharma
+  </div>
+  <div
+    className="subText"
+  >
+    60 AIR
+  </div>
+</div>
+`;

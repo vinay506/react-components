@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content Over Card Activity Card Snapshot 1`] = `
+.c4 {
+  font-size: 18px;
+  color: black;
+  font-family: 'AmazonEmber-regular';
+  -webkit-letterSpacing: 0;
+  -moz-letterSpacing: 0;
+  -ms-letterSpacing: 0;
+  letterSpacing: 0;
+  lineHeight: 24px;
+}
+
+.c6 {
+  color: darkgrey;
+  font-size: 13px;
+  font-family: 'AmazonEmber-Regular';
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 16px;
+}
+
+.c2 {
+  margin-left: 16px;
+}
+
+.c1 {
+  padding: 11px 8px 11px 8px;
+  width: 64px;
+  border-radius: 8px;
+  background-color: #F6F5FA;
+}
+
+.c3 {
+  height: 26px;
+  width: 157px;
+  color: #150F2D;
+  font-family: "Amazon Ember";
+  font-size: 17px;
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-align: left;
+}
+
+.c5 {
+  height: 40px;
+  width: 100%;
+  color: #736F81;
+  font-family: "Amazon Ember";
+  font-size: 13px;
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-align: left;
+}
+
+<div
+  className="mdc-card"
+  id="uniqueActivityCard"
+  onClick={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": "8px",
+      "boxShadow": "0 8px 10px 1px rgba(0, 0, 0, 0.04), 0 3px 14px 2px rgba(0, 0, 0, 0.04), 0 5px 5px - 3px rgba(0, 0, 0, 0.04)",
+      "cursor": "pointer",
+      "height": "104px",
+      "width": "333px",
+    }
+  }
+>
+  <div
+    className="c0"
+  >
+    <div
+      className=""
+    >
+      <div
+        className="c1"
+      >
+        <img
+          alt="Missing Logo"
+          height="50"
+          src="react-icon.png"
+          width="50"
+        />
+      </div>
+    </div>
+    <div
+      className="c2"
+    >
+      <div
+        className="c3"
+      >
+        <div
+          className="c4"
+          id="textSecondaryRegular"
+          style={
+            Object {
+              "color": undefined,
+            }
+          }
+        >
+          Tests
+        </div>
+      </div>
+      <div
+        className="c5"
+      >
+        <div
+          className="c6"
+          id="textContent"
+          style={
+            Object {
+              "color": undefined,
+            }
+          }
+        >
+          Take full, part or chapter tests to improve your performance.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

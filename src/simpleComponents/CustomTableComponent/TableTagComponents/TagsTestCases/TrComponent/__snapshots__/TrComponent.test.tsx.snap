@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Custom TR  > should render 1`] = `
+<tr
+  className="rmwc-data-table__row mdc-data-table__row"
+/>
+`;
+
+exports[`<Custom TR with body cell should render custom rable row with custom td cells 1`] = `
+<tr
+  className="rmwc-data-table__row mdc-data-table__header-row"
+>
+   
+  <td
+    className="mdc-data-table__cell rmwc-data-table__cell"
+    style={
+      Object {
+        "fontWeight": "bold",
+        "height": "45px",
+      }
+    }
+  >
+    X
+  </td>
+  <td
+    className="mdc-data-table__cell rmwc-data-table__cell"
+    style={
+      Object {
+        "height": "45px",
+      }
+    }
+  >
+    X
+  </td>
+  <td
+    className="mdc-data-table__cell rmwc-data-table__cell"
+    style={
+      Object {
+        "height": "45px",
+      }
+    }
+  >
+    X
+  </td>
+  <td
+    className="mdc-data-table__cell rmwc-data-table__cell"
+    style={
+      Object {
+        "height": "45px",
+      }
+    }
+  >
+    X
+  </td>
+</tr>
+`;
+
+exports[`<Custom TR with header cell should render custom rable row with custom header  1`] = `
+<tr
+  className="rmwc-data-table__row mdc-data-table__header-row"
+>
+   
+  <th
+    className="rmwc-data-table__cell mdc-data-table__header-cell"
+    style={
+      Object {
+        "fontWeight": "bold",
+        "height": "45px",
+      }
+    }
+  >
+    Tests
+  </th>
+</tr>
+`;

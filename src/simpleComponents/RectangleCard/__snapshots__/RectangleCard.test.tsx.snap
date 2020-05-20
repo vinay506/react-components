@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Rectangle Card> render Square Card Wrapper 1`] = `
+<div
+  className="sc-Axmtr jrBCvi"
+/>
+`;

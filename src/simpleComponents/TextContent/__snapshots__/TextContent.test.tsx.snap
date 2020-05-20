@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Content Content Text Snapshot 1`] = `
+.c0 {
+  color: darkgrey;
+  font-size: 13px;
+  font-family: 'AmazonEmber-Regular';
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+<div
+  className="c0"
+  id="textContent"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+>
+  Sample Text Primary
+</div>
+`;

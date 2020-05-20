@@ -1,0 +1,190 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Price Pack Testing Price Pack Card Snapshot 1`] = `
+<div
+  className="mdc-card"
+  id="uniqueCard"
+  style={
+    Object {
+      "border": "1px solid lightgray",
+      "height": "380px",
+      "padding": "10px",
+      "width": "250px",
+    }
+  }
+>
+  <span
+    className="sc-AxhUy kvjJUJ"
+    id="uniqueBadge"
+    style={
+      Object {
+        "backgroundColor": "darkgray",
+        "borderRadius": undefined,
+        "bottom": undefined,
+        "color": "white",
+        "left": "15px",
+        "position": "absolute",
+        "right": undefined,
+        "top": "-10px",
+      }
+    }
+  >
+    Recommended
+  </span>
+  <div
+    className="sc-fzpans bJETly"
+  >
+    <div
+      style={
+        Object {
+          "height": "50px",
+          "width": "50px",
+        }
+      }
+    />
+  </div>
+  <div
+    className="sc-AxgMl kALZGm"
+  >
+    <div
+      className="sc-AxjAm hLZUJk"
+      id="textSecondary"
+    >
+      JEE
+    </div>
+  </div>
+  <div
+    className="sc-fzozJi lbrNyh"
+  >
+    <div
+      className="sc-AxirZ ixsMyO"
+      id="textContent"
+      style={
+        Object {
+          "color": undefined,
+        }
+      }
+    >
+      1 year pack
+    </div>
+  </div>
+  <div
+    className="sc-fzozJi lbrNyh"
+  >
+    <div
+      className="sc-AxirZ ixsMyO"
+      id="textContent"
+      style={
+        Object {
+          "color": undefined,
+        }
+      }
+    >
+      Target Year 2020
+    </div>
+  </div>
+  <div
+    className="sc-fzplWN ksGGeZ"
+  >
+    <div
+      className="sc-AxiKw hukwlf"
+      id="anchor"
+      onClick={[Function]}
+      style={
+        Object {
+          "color": undefined,
+          "display": undefined,
+          "fontSize": undefined,
+        }
+      }
+    >
+      View Schedule
+    </div>
+  </div>
+  <div
+    className="sc-fzoLsD jKdIiq"
+  />
+  <div
+    className="sc-AxmLO jktqSx"
+  >
+    <span>
+      <div
+        style={
+          Object {
+            "color": "black",
+            "fontSize": "24px",
+          }
+        }
+      >
+        ₹
+      </div>
+    </span>
+    <span>
+      <div
+        className="sc-AxhCb ekSghy"
+        id="textPrimary"
+      >
+        3000
+      </div>
+    </span>
+    <div
+      style={
+        Object {
+          "color": "black",
+          "fontSize": undefined,
+        }
+      }
+    >
+       
+    </div>
+    <div
+      className="sc-Axmtr iWYdZe"
+    >
+      <div
+        className="sc-AxirZ ixsMyO"
+        id="textContent"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+      >
+        for 1 year
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-AxheI dVkpdt"
+  >
+    <button
+      className="mdc-button mdc-button--outlined"
+      id="outlined"
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      style={
+        Object {
+          "backgroundColor": "white",
+          "borderColor": "#0275d8",
+          "color": "#0275d8",
+        }
+      }
+    >
+      <div
+        className="mdc-button__ripple"
+      />
+      <span
+        className="mdc-button__label"
+      >
+        Get Started
+      </span>
+    </button>
+  </div>
+</div>
+`;

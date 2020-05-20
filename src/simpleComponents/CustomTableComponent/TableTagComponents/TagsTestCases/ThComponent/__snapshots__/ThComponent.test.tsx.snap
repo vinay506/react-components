@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Custom TH Cell > should render  1`] = `
+<th
+  className="rmwc-data-table__cell mdc-data-table__header-cell"
+  style={
+    Object {
+      "fontWeight": "bold",
+      "height": "45px",
+    }
+  }
+/>
+`;

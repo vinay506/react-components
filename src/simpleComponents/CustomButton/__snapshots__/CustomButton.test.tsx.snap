@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Custom Button Outlined Custom Button Snapshot 1`] = `
+<button
+  className="mdc-button mdc-button--outlined"
+  id="outlined"
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+  style={
+    Object {
+      "backgroundColor": "white",
+      "borderColor": "blue",
+      "color": "blue",
+    }
+  }
+>
+  <div
+    className="mdc-button__ripple"
+  />
+  <span
+    className="mdc-button__label"
+  >
+    Get Started
+  </span>
+</button>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Blur Blur Text Snapshot 1`] = `
+.c0 {
+  color: darkgrey;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+<div
+  className="c0"
+  id="textBlur"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+>
+  Sample Text Blur
+</div>
+`;

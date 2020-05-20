@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Secondary Secondary Text Snapshot 1`] = `
+.c0 {
+  font-size: 18px;
+  color: black;
+  font-family: 'AmazonEmber-bold';
+}
+
+<div
+  className="c0"
+  id="textSecondary"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+>
+  Sample Text Secondary
+</div>
+`;

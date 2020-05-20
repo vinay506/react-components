@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<payment card> payment card snapshot 1`] = `
+<div
+  className="sc-AxheI eMcboF"
+  style={
+    Object {
+      "textAlign": "left",
+    }
+  }
+>
+  <div
+    className="sc-AxmLO cCwvup"
+    style={
+      Object {
+        "height": "40px",
+        "marginBottom": "20px",
+        "width": "40px",
+      }
+    }
+  />
+  <div
+    className="sc-AxirZ eUWaBq"
+    id="textPrimary"
+    style={
+      Object {
+        "fontSize": "14px",
+        "marginBottom": "5%",
+      }
+    }
+  >
+    Cancel anything with in 15 days...
+  </div>
+  <div
+    className="sc-AxjAm hLZUJk"
+    id="textSecondary"
+    style={
+      Object {
+        "fontSize": "12px",
+        "marginBottom": "5%",
+      }
+    }
+  >
+    Change your mind? Don't worry, you can cancel your pack anytime with in 15 days and get pull refund*
+  </div>
+</div>
+`;

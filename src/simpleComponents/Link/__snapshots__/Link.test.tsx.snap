@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Anchor Link View Anchor Link Snapshot 1`] = `
+.c0 {
+  color: #0275d8;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+<div
+  className="c0"
+  id="anchor"
+  onClick={[Function]}
+  style={
+    Object {
+      "color": "blue",
+      "display": "flex",
+      "fontSize": "12px",
+    }
+  }
+>
+  View Schedule
+</div>
+`;

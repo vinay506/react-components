@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Custom Table Context > should render 1`] = `
+<div
+  className="mdc-data-table"
+>
+  <table
+    className="mdc-data-table__table"
+  >
+     
+  </table>
+</div>
+`;
+
+exports[`<Custom Table Tag > should render 1`] = `
+<table
+  className="mdc-data-table__table"
+>
+       
+  <thead
+    className="rmwc-data-table__head"
+  />
+  <tbody
+    className="mdc-data-table__content"
+  />
+</table>
+`;
